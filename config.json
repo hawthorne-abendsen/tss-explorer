@@ -1,0 +1,4 @@
+{
+    "targetServers": ["https://tss-0.stellar.buzz/"],
+    "updateInterval": 1000
+}
